@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+}
+
+
+
+.bracket{
+    background-color: rgba(110, 217, 236, 0.575);
+    display:flex;
+    justify-content:space-between
+}
+
+.menu{
+    background-color: antiquewhite;
+  flex-wrap: wrap;
+  justify-content: space-around ;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
